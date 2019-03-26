@@ -168,7 +168,7 @@ class IPCOUNT{
   }
 }
 
-function get_log_2(num, result=0){
+function get_log_2(num, result = 0){
   if(parseInt(num) > 1){
     return get_log_2(parseInt(num) >> 1 , result+1 )
   }else{

@@ -1,8 +1,8 @@
 {
   "name": "ip-list-samicelus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "ip_count.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
