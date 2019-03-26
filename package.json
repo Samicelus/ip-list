@@ -1,0 +1,21 @@
+{
+  "name": "ip-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ip_count.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samicelus/ip-list.git"
+  },
+  "author": "samicelus",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.5"
+  }
+}
